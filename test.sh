@@ -1,4 +1,4 @@
-API_URL="api地址?action=increment" # 定义api链接
+API_URL="api地址?action=increment" # 定义api链接，问好后面的千万别删
 
 TOKEN=" " # 定义你获得的Token
 AUTH_HEADER=" " # 定义你获得的auth_header
