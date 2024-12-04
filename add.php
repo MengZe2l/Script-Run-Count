@@ -1,6 +1,4 @@
 <?php
-// manage_tokens.php
-
 $tokenFile = __DIR__ . '/tokens.token';
 $dataFile = __DIR__ . '/counter_data.json';
 if (!file_exists($tokenFile)) {
